@@ -1,2 +1,2 @@
-# project1
+# Major projects model
 Hands-on project
